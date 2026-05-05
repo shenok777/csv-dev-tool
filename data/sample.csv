@@ -1,0 +1,7 @@
+id,name,age,city,salary
+1,Anna,25,Belgrade,1200
+2,Mark,31,Novi Sad,1500
+3,Ivan,,Belgrade,1100
+4,Sara,28,,1700
+5,John,35,Kragujevac,
+6,Mila,29,Belgrade,1400
